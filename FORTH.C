@@ -4,7 +4,8 @@ void sum()
 {  
 static int a = 10;  
 static int b = 24;   
-printf("%d %d \n",a,b);  
+printf("%d %d \n",a,b); 
+printf("%d  \n",a+b);   
 a++;   
 b++;  
 }  
